@@ -4,8 +4,8 @@ const fs = require('fs').promises;
 const path = require('path');
 
 // Base URLs
-const PRODUCTION_BASE = 'https://www.treeage.com';
-const DEVELOPMENT_BASE = 'https://avada-treeage-new.pantheonsite.io';
+const PRODUCTION_BASE = 'https://revelcommunities.com';
+const DEVELOPMENT_BASE = 'https://dev-revelcommunities.pantheonsite.io';
 
 // Pages to test - add your URLs here
 const PAGES_TO_TEST = [
