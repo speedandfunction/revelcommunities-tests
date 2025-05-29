@@ -4,9 +4,9 @@ there are a few automatic PlayWright tests for the project.
 
 Live: https://www.revelcommunities.com/
 
-Test: https://test-revelcommunities.pantheonsite.io/
+Test: https://test-revelcomm.pantheonsite.io/
 
-Dev: https://dev-revelcommunities.pantheonsite.io/
+Dev: https://dev-revelcomm.pantheonsite.io/
 
 Installation
 
